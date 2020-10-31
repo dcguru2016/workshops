@@ -15,5 +15,5 @@ dns_type: aws
 create_login: true
 workshop_dns_zone: neuralabs.io
 # this will install Ansible Tower on all control nodes
-towerinstall: false
+towerinstall: true
 create_cluster: false
